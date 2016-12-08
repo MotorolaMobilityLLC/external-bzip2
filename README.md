@@ -1,1 +1,1 @@
-# kernel-mtk
+# external-bzip2
